@@ -1,0 +1,20 @@
+{
+  "name": "token_scale_ui_proxy",
+  "version": "1.0.0",
+  "description": "A Solana program that acts as a proxy authority for Token-2022 Scaled UI Amount extensions, enabling updateable authority management.",
+  "main": "client-test.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "borsh": "^2.0.0"
+  }
+}
